@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div>
-I am a dedicated and fast-learning full-stack web development student with a passion for creating innovative and user-friendly digital experiences. My commitment to excellence in my field is reflected in my proactive approach to learning and staying abreast of the latest industry trends. As a highly motivated professional, I thrive in dynamic environments where I can apply my technical skills and creative mindset to solve complex problems.
+I am a dedicated and fast-learning full-stack web developer with a passion for creating innovative and user-friendly digital experiences. My commitment to excellence in my field is reflected in my proactive approach to learning and staying abreast of the latest industry trends. As a highly motivated professional, I thrive in dynamic environments where I can apply my technical skills and creative mindset to solve complex problems.
 
 My journey in web development has equipped me with a robust understanding of both front-end and back-end technologies. I approach each project with enthusiasm, aiming to deliver high-quality solutions that not only meet but exceed client expectations. With a solid foundation in programming languages such as HTML, CSS, JavaScript, and proficiency in frameworks like React and Node.js, I am well-equipped to tackle diverse challenges in the ever-evolving world of web development.
 
