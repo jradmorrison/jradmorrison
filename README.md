@@ -1,13 +1,14 @@
 ### Hi there 👋
-<div>
-I am a dedicated and fast-learning full-stack web developer with a passion for creating innovative and user-friendly digital experiences. My commitment to excellence in my field is reflected in my proactive approach to learning and staying abreast of the latest industry trends. As a highly motivated professional, I thrive in dynamic environments where I can apply my technical skills and creative mindset to solve complex problems.
 
-My journey in web development has equipped me with a robust understanding of both front-end and back-end technologies. I approach each project with enthusiasm, aiming to deliver high-quality solutions that not only meet but exceed client expectations. With a solid foundation in programming languages such as HTML, CSS, JavaScript, and proficiency in frameworks like React and Node.js, I am well-equipped to tackle diverse challenges in the ever-evolving world of web development.
+I am a dedicated and fast-learning full-stack web developer with a passion for creating innovative and user-friendly digital experiences. My commitment to excellence in my field is reflected in my proactive approach to learning and staying abreast of the latest industry trends. As a highly motivated professional, I thrive in dynamic environments where I can apply my technical skills and creative mindset to solve complex problems.  
 
 I believe in the power of collaboration and effective communication to drive successful outcomes. My adaptability and commitment to continuous improvement make me an asset in fast-paced, innovative environments. I am excited about the opportunity to contribute my skills and passion to projects that push the boundaries of web development.
 
 Let's build the future of the web together!
-</div>
+
+- 🌱 I’m currently learning TypeScript
+- 👯 I'm always open to collaborating on a new project!
+
 <!--
 **jradmorrison/jradmorrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
