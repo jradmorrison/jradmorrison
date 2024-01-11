@@ -6,7 +6,7 @@ I believe in the power of collaboration and effective communication to drive suc
 
 Let's build the future of the web together!
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and C#
 - 👯 I'm always open to collaborating on a new project!
 
 <!--
