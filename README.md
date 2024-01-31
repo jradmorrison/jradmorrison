@@ -11,10 +11,8 @@ I believe in the power of collaboration and effective communication to drive suc
 
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jradmorrison&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="jradmorrison" />
-</div>
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=jradmorrison&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="jradmorrison" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jradmorrison&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="jradmorrison" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jradmorrison&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="jradmorrison" />
 
 </div>
 
