@@ -9,16 +9,23 @@ I believe in the power of collaboration and effective communication to drive suc
 - 👯 I'm always open to collaborating on a new project!
 
 
-<div align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jradmorrison&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="jradmorrison" />
-</div>
 
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jradmorrison&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="jradmorrison" />
+</div>
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=jradmorrison&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="jradmorrison" />
 <br>
-
-<div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jradmorrison&theme=tokyonight&hide_border=true" alt="jradmorrison" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jradmorrison&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="jradmorrison" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jradmorrison&theme=tokyonight&hide_border=true" alt="jradmorrison" />
 </div>
+
+
+
+
+
+
+
+
 <!--
 <br>
 
